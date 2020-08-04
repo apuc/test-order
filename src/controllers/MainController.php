@@ -16,7 +16,7 @@ class MainController extends Controller
     /**
      * @return string
      * @throws \Exception
-     * Вывод инфоормацтт на глауную страницу
+     * Вывод инфоормации на главную страницу
      */
     public function actionIndex()
     {
