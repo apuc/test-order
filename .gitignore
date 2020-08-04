@@ -1,0 +1,8 @@
+# Composer dependencies
+vendor/
+
+# IDEA files
+.idea
+
+# 'Blade' template engine compiles
+compiles
