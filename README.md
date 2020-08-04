@@ -1,7 +1,7 @@
 **Конфигурация приложения**
 * git clone https://github.com/apuc/test-order.git
 * composer install
-* конфигурация БД в файле 'config.php'
+* конфигурация параметров БД в файле 'config.php'
 * импорт БД из файла 'test.sql'
 
 **Функционал приложения**
